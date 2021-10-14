@@ -3707,187 +3707,187 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.Symbol1();
 	this.instance.setTransform(730.3,-411.35,1,1,0,0,0,61.8,72.4);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({x:734.85,y:455.55},14).to({y:510.5},36).to({y:455.55},28).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({x:734.85,y:455.55},14).to({y:510.5},36).to({y:455.55},28).wait(72));
 
 	// Symbol_2
 	this.instance_1 = new lib.Symbol2();
 	this.instance_1.setTransform(950.4,-1099.55,1,1,0,0,0,61.8,72.4);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({x:952.95,y:343.4},14).wait(89));
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({x:952.95,y:343.4},14).wait(136));
 
 	// Symbol_3
 	this.instance_2 = new lib.Symbol3();
 	this.instance_2.setTransform(1004.35,-219.65,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({x:1006.9,y:488},78).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({x:1006.9,y:488},78).wait(72));
 
 	// Symbol_4
 	this.instance_3 = new lib.Symbol4();
 	this.instance_3.setTransform(1217.65,-809.3,1,1,0,0,0,52.4,60.9);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).to({x:1220.2,y:476.05},14).to({x:1372.65,y:388.6},36).to({x:1220.2,y:476.05},28).to({x:900.2,y:551.05},11).to({x:1220.2,y:476.05},13).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).to({x:1220.2,y:476.05},14).to({x:1372.65,y:388.6},36).to({x:1220.2,y:476.05},28).to({x:900.2,y:551.05},11).to({x:1220.2,y:476.05},60).wait(1));
 
 	// Symbol_5
 	this.instance_4 = new lib.Symbol5();
 	this.instance_4.setTransform(1175.4,-496.5,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({x:1158.3,y:437.15},14).wait(89));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({x:1158.3,y:437.15},14).wait(136));
 
 	// Symbol_6
 	this.instance_5 = new lib.Symbol6();
 	this.instance_5.setTransform(672.15,1875.35,1,1,0,0,0,183.8,206.2);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).to({x:680.05,y:713.7},14).wait(89));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).to({x:680.05,y:713.7},14).wait(136));
 
 	// Symbol_7
 	this.instance_6 = new lib.Symbol7();
 	this.instance_6.setTransform(897.6,1725.05,1,1,0,0,0,52.4,60.9);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).to({x:900.15,y:550.7},78).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_6).to({x:900.15,y:550.7},78).wait(72));
 
 	// Symbol_8
 	this.instance_7 = new lib.Symbol8();
 	this.instance_7.setTransform(948.35,-496.5,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({x:952.2,y:344.6},14).wait(89));
+	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({x:952.2,y:344.6},14).wait(136));
 
 	// Symbol_9
 	this.instance_8 = new lib.Symbol9();
 	this.instance_8.setTransform(683.7,1373.6,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_8).to({x:686.25,y:717.2},14).to({y:792.2},36).to({y:717.2},28).to({x:900.25,y:551},11).to({x:686.25,y:717.2},13).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_8).to({x:686.25,y:717.2},14).to({y:792.2},36).to({y:717.2},28).to({x:900.25,y:551},11).to({x:686.25,y:717.2},60).wait(1));
 
 	// Symbol_10
 	this.instance_9 = new lib.Symbol10();
 	this.instance_9.setTransform(721.9,-2178.05,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_9).to({x:732.2,y:457.15},78).to({x:900.2,y:551},11).to({x:732.2,y:457.15},13).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_9).to({x:732.2,y:457.15},78).to({x:900.2,y:551},11).to({x:732.2,y:457.15},60).wait(1));
 
 	// Symbol_11
 	this.instance_10 = new lib.Symbol11();
 	this.instance_10.setTransform(958.9,1464.35,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_10).to({x:961.45,y:652.65},78).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_10).to({x:961.45,y:652.65},78).wait(72));
 
 	// Symbol_12
 	this.instance_11 = new lib.Symbol12();
 	this.instance_11.setTransform(1070.65,2792,1,1,0,0,0,52.4,60.9);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_11).to({x:1073.2,y:650.7},78,cjs.Ease.cubicInOut).to({x:900.25,y:551.05},11,cjs.Ease.cubicInOut).to({x:1073.2,y:650.7},13).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_11).to({x:1073.2,y:650.7},78,cjs.Ease.cubicInOut).to({x:900.25,y:551.05},11,cjs.Ease.cubicInOut).to({x:1073.2,y:650.7},60).wait(1));
 
 	// Symbol_13
 	this.instance_12 = new lib.Symbol13();
 	this.instance_12.setTransform(897.55,-687.7,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_12).to({x:894.1,y:484},29,cjs.Ease.cubicInOut).to({y:447.65},21).to({y:484},28).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_12).to({x:894.1,y:484},29,cjs.Ease.cubicInOut).to({y:447.65},21).to({y:484},28).wait(72));
 
 	// Symbol_14
 	this.instance_13 = new lib.Symbol14();
 	this.instance_13.setTransform(1014.6,2380.6,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_13).to({x:1012.15,y:617.65},29,cjs.Ease.cubicInOut).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.instance_13).to({x:1012.15,y:617.65},29,cjs.Ease.cubicInOut).wait(121));
 
 	// Symbol_15
 	this.instance_14 = new lib.Symbol15();
 	this.instance_14.setTransform(1028.6,1566,1,1,0,0,0,52.4,60.9);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_14).to({x:1031.15,y:532.7},29,cjs.Ease.cubicInOut).to({y:447.75},21).to({y:532.7},28).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_14).to({x:1031.15,y:532.7},29,cjs.Ease.cubicInOut).to({y:447.75},21).to({y:532.7},28).wait(72));
 
 	// Symbol_16
 	this.instance_15 = new lib.Symbol16();
 	this.instance_15.setTransform(958.9,2141.25,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_15).wait(29).to({x:961.45,y:728.1},49,cjs.Ease.cubicInOut).to({x:900.2,y:551},11,cjs.Ease.cubicInOut).to({x:961.45,y:728.1},13).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_15).wait(29).to({x:961.45,y:728.1},49,cjs.Ease.cubicInOut).to({x:900.2,y:551},11,cjs.Ease.cubicInOut).to({x:961.45,y:728.1},60).wait(1));
 
 	// Symbol_17
 	this.instance_16 = new lib.Symbol17();
 	this.instance_16.setTransform(1217.65,2335,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_16).to({x:1220.2,y:550.65},29,cjs.Ease.cubicInOut).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.instance_16).to({x:1220.2,y:550.65},29,cjs.Ease.cubicInOut).wait(121));
 
 	// Symbol_18
 	this.instance_17 = new lib.Symbol18();
 	this.instance_17.setTransform(897.6,1899.65,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_17).to({x:900.15,y:617.65},29,cjs.Ease.cubicInOut).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.instance_17).to({x:900.15,y:617.65},29,cjs.Ease.cubicInOut).wait(121));
 
 	// Symbol_19
 	this.instance_18 = new lib.Symbol19();
 	this.instance_18.setTransform(974.7,1557.55,1,1,0,0,0,82,112.6);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_18).to({x:929.75,y:634.45},29,cjs.Ease.cubicInOut).to({x:923.7,y:694.4},21).to({x:929.75,y:634.45},28).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_18).to({x:929.75,y:634.45},29,cjs.Ease.cubicInOut).to({x:923.7,y:694.4},21).to({x:929.75,y:634.45},28).wait(72));
 
 	// Symbol_20
 	this.instance_19 = new lib.Symbol20();
 	this.instance_19.setTransform(1014.6,1342.7,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_19).to({x:1017.15,y:686.3},29,cjs.Ease.cubicInOut).to({y:756.3},21).to({y:686.3},28).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_19).to({x:1017.15,y:686.3},29,cjs.Ease.cubicInOut).to({y:756.3},21).to({y:686.3},28).wait(72));
 
 	// Symbol_21
 	this.instance_20 = new lib.Symbol21();
 	this.instance_20.setTransform(951.75,1175.55,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_20).to({x:954.3,y:519.15},29,cjs.Ease.cubicInOut).to({x:1135.95,y:642.6},21).to({x:954.3,y:519.15},28).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_20).to({x:954.3,y:519.15},29,cjs.Ease.cubicInOut).to({x:1135.95,y:642.6},21).to({x:954.3,y:519.15},28).wait(72));
 
 	// Symbol_22
 	this.instance_21 = new lib.Symbol22();
 	this.instance_21.setTransform(843.55,1306.1,1,1,0,0,0,52.4,60.9);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_21).to({x:846.1,y:649.7},29,cjs.Ease.cubicInOut).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.instance_21).to({x:846.1,y:649.7},29,cjs.Ease.cubicInOut).wait(121));
 
 	// Symbol_23
 	this.instance_22 = new lib.Symbol23();
 	this.instance_22.setTransform(802.55,1254.05,1,1,0,0,0,52.4,60.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_22).to({x:805.1,y:597.65},29,cjs.Ease.cubicInOut).to({x:743.3,y:642.6},21).to({x:805.1,y:597.65},28).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_22).to({x:805.1,y:597.65},29,cjs.Ease.cubicInOut).to({x:743.3,y:642.6},21).to({x:805.1,y:597.65},28).wait(72));
 
 	// Symbol_31
 	this.instance_23 = new lib.Symbol31();
 	this.instance_23.setTransform(-379.8,131.45,1,1,0,0,0,356.6,112);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_23).to({x:474.7},29,cjs.Ease.cubicInOut).to({x:456.2},49).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_23).to({x:474.7},29,cjs.Ease.cubicInOut).to({x:456.2},49).wait(72));
 
 	// Symbol_25
 	this.instance_24 = new lib.Symbol25();
 	this.instance_24.setTransform(-258.8,656.9,1,1,0,0,0,164.1,148.4);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_24).to({x:282.2,y:661.25},29,cjs.Ease.cubicInOut).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.instance_24).to({x:282.2,y:661.25},29,cjs.Ease.cubicInOut).wait(121));
 
 	// Symbol_26
 	this.instance_25 = new lib.Symbol26();
 	this.instance_25.setTransform(1201.05,-1751.05,1,1,0,0,0,183.8,206.2);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_25).wait(29).to({x:1214.35,y:477.2},49,cjs.Ease.cubicInOut).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_25).wait(29).to({x:1214.35,y:477.2},49,cjs.Ease.cubicInOut).wait(72));
 
 	// Symbol_27
 	this.instance_26 = new lib.Symbol27();
 	this.instance_26.setTransform(-215.4,425.95,1,1,0,0,0,158.8,49.6);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_26).to({x:276.9,y:427.95},29,cjs.Ease.cubicInOut).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.instance_26).to({x:276.9,y:427.95},29,cjs.Ease.cubicInOut).wait(121));
 
 	// Symbol_28
 	this.instance_27 = new lib.Symbol28();
 	this.instance_27.setTransform(-173.75,293.1,1,1,0,0,0,162,49.6);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_27).to({x:280.1},29,cjs.Ease.cubicInOut).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.instance_27).to({x:280.1},29,cjs.Ease.cubicInOut).wait(121));
 
 	// Symbol_29
 	this.instance_28 = new lib.Symbol29();
 	this.instance_28.setTransform(2286.3,1132.75,1,46.9571,0,-63.4349,0,270.9,2.5);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_28).to({scaleY:1,skewX:0,x:200,y:201.85},29,cjs.Ease.cubicInOut).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.instance_28).to({scaleY:1,skewX:0,x:200,y:201.85},29,cjs.Ease.cubicInOut).wait(121));
 
 	// Symbol_32
 	this.instance_29 = new lib.Symbol32();
 	this.instance_29.setTransform(1242.3,485.1,1,5.9425,0,0,0,1370.9,99.2);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_29).to({regY:99.7,scaleY:1,x:-805.75,y:100.75},29,cjs.Ease.cubicInOut).to({x:-824.25},49).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_29).to({regY:99.7,scaleY:1,x:-805.75,y:100.75},29,cjs.Ease.cubicInOut).to({x:-824.25},49).wait(72));
 
 	// Symbol_30
 	this.instance_30 = new lib.Symbol30();
 	this.instance_30.setTransform(960,541.05,1,1,0,0,0,960,540);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_30).wait(103));
+	this.timeline.addTween(cjs.Tween.get(this.instance_30).wait(150));
 
 	this._renderFirstFrame();
 
