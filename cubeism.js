@@ -3693,7 +3693,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,713.3,224.1);
 
 // stage content:
 (lib.cubeism = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = false; }
+if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
 	props.mode = mode;
